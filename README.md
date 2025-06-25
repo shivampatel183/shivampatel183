@@ -14,9 +14,6 @@
 🎓 B.Tech in Information & Communication Technology, Gujarat Technological University  
 💼 Aspiring Software Engineer with a passion for ML, clean UI, and scalable systems  
 📍 Based in Ahmedabad, Gujarat  
-🧠 Currently exploring: Flutter + Supabase, Real-time dashboards, AI-enhanced systems  
-🎯 Goal: Join Google or a top MNC as a Software Developer
-
 ---
 
 ## 🚀 Technical Skills
