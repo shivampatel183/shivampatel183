@@ -170,10 +170,6 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivampatel183&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivampatel183&theme=radical" height="180" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivampatel183&layout=compact&theme=radical&langs_count=10" height="180" />
