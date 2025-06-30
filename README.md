@@ -11,7 +11,7 @@
 
 ## 🎓 About Me
 
-🎓 B.Tech in Information & Communication Technology, Gujarat Technological University  
+🎓 B.Tech in Information & Communication Technology, Pandit Deendayal Energy University 
 💼 Aspiring Software Engineer specializing in Full-Stack Development, Machine Learning & System Design  
 🌟 Passionate about building scalable, high-performance applications and contributing to open-source  
 📍 Based in Ahmedabad, Gujarat, India  
