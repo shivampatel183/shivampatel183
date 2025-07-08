@@ -245,7 +245,6 @@
 ## 🎯 Career Goals
 
 **Short-term (2024-2025)**:
-- Join a top-tier tech company (Google, Microsoft, Amazon, Meta) as a Software Engineer
 - Contribute to large-scale distributed systems and high-impact products
 - Advance competitive programming skills to Expert level
 
