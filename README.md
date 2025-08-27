@@ -161,10 +161,6 @@
 - 🛡️ **NPTEL Privacy & Security in Online Social Media** (2024)
 - 🏗️ **System Design Interview Course** — Educative (2024)
 
-### 🎖️ Academic Honors
-- 🥇 **TATA Essay Competition Winner** — School Level (2015–16)
-- 📚 **Dean's List** — GTU (CGPA: 8.5+)
-- 🏆 **Best Project Award** — ICT Department (2024)
 
 ---
 
@@ -214,7 +210,7 @@
 📄 **Resume**: [Download Latest Resume](https://shivamarvadiya.netlify.app/Files/21BIT124-Resume.pdf)  
 🌐 **Portfolio**: [shivamarvadiya.netlify.app](https://shivamarvadiya.netlify.app)  
 📍 **Location**: Ahmedabad, Gujarat, India  
-💼 **Open to**: Full-time opportunities, Internships, Freelance projects
+💼 **Open to**: Full-time opportunities, Freelance projects
 
 </div>
 
