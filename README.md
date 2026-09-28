@@ -29,5 +29,6 @@ Microservices · REST APIs · ERP Integration · RAG · LLMs · Embeddings · Ve
 🏢 100+ Businesses -->
 
 
+<p align="center"><br>
 🤝 Connect
-<p align="center"> <a href="mailto:shivamaravidya@gmail.com">Email</a> • <a href="https://linkedin.com/in/shivam-patel">LinkedIn</a> • <a href="https://shivamarvadiya.netlify.app">Portfolio</a> • <a href="https://github.com/shivampatel183">GitHub</a> </p> <p align="center"> <b>Build • Scale • Automate • Innovate 🚀</b> </p>
+ <a href="mailto:shivamaravidya@gmail.com">Email</a> • <a href="https://linkedin.com/in/shivam-patel">LinkedIn</a> • <a href="https://shivamarvadiya.netlify.app">Portfolio</a> • <a href="https://github.com/shivampatel183">GitHub</a> </p> <p align="center"> <b>Build • Scale • Automate • Innovate 🚀</b> </p>
