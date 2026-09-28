@@ -20,13 +20,13 @@ const shivam = {
 
 Microservices · REST APIs · ERP Integration · RAG · LLMs · Embeddings · Vector Search · AI Agents
 
-</p>
+<!-- </p>
 🏆 Highlights
 <p align="center">
 
 🥇 Smart India Hackathon Finalist   •  
 ☁️ AWS Data Analytics Certified   •  
-🏢 100+ Businesses
+🏢 100+ Businesses -->
 
 
 🤝 Connect
